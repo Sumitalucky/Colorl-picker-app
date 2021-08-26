@@ -1,1 +1,0 @@
-# Colorl-picker-app
